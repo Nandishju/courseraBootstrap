@@ -50,3 +50,7 @@ body{
 .collapsed{
     color: #0056b3!important;
 }
+
+.navbar-text{
+    cursor: pointer;
+}
